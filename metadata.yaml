@@ -1,0 +1,30 @@
+_repo: Egyptian-Tales-Translated-from-the-Papyri--13-Second-series-XVIIIth-to-XIXth-dynasty_7413
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Petrie, W. M. Flinders (William Matthew Flinders)
+    aliases:
+    - Petrie, Flinders
+    - Petrie, William Matthew Flinders, Sir
+    birthdate: 1853
+    deathdate: 1942
+    gutenberg_agent_id: '2454'
+    url: http://www.gutenberg.org/2009/agents/2454
+    wikipedia: http://en.wikipedia.org/wiki/William_Matthew_Flinders_Petrie
+description: 1st ser. IVth to XIIth dynasty. -- 2nd ser. XVIIIth to XIXth dynasty.
+gutenberg_bookshelf: Egypt
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7413'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PJ'
+- !lcsh 'Egyptian literature -- Translations into English'
+- GITenberg
+title: "Egyptian Tales, Translated from the Papyri\r\nSecond series, XVIIIth to XIXth\
+  \ dynasty"
+url: http://www.gutenberg.org/ebooks/7413
